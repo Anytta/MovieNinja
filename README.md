@@ -6,10 +6,19 @@ Administrator can manage the existing movies by adding new ones, deleting and ed
 
 
 ## Sample Screenshots
-![Question2](https://github.com/Anytta/CostaRicaQuiz/blob/master/Question2.png)
+
+![Addmovie](https://github.com/Anytta/MovieNinja/blob/master/images/Welcome.png)
 <br/>
 
-![Question5](https://github.com/Anytta/CostaRicaQuiz/blob/master/Question5.png)
+![MovieList](https://github.com/Anytta/MovieNinja/blob/master/images/MovieList.png)
+<br/>
+![Addmovie](https://github.com/Anytta/MovieNinja/blob/master/images/Addmovie.png)
+<br/>
+
+![Addmovie](https://github.com/Anytta/MovieNinja/blob/master/images/Rentals.png)
+<br/>
+
+
 
 ## Technologies
 * Java EE 
